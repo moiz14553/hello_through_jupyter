@@ -96,4 +96,4 @@ This project is open-source, under the [MIT License](LICENSE). Go ahead, play wi
 
 ---
 
-Now, you’re all set to upload this README.md to your GitHub repository. Your project is not only functional but also presented in a fun and inviting way. Happy coding! 🍪🚀
+Happy coding! 🍪🚀
